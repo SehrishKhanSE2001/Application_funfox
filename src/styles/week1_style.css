@@ -1,0 +1,10 @@
+#logoID{
+    position:relative;
+    top: 2px;
+    right: -220px;
+}
+#imgsettingsID {
+    position: relative; /* Position relative to its normal position */
+    right: 1000px; /* Move 20 pixels to the right */
+  }
+  
